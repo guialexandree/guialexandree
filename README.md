@@ -62,7 +62,13 @@
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guialexandree&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guialexandree&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
  </a>
+ 
+ ![image](https://raw.githubusercontent.com/GustavoMachado22/GustavoMachado22/output/github-contribution-grid-snake.svg)
+ 
 </p>
+
+
+
     
 <!--
 **guialexandree/guialexandree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
