@@ -14,8 +14,8 @@
 
 29 anos, moro em São Paulo/SP.
 
-- 🔭 Atualmente estou trabalhando com Análise e Desenvolvimento de Sistemas(3 anos);
-- 🌱 Estou estudando Desenvolvimento Web e Padrões de Projeto e um pouquinho de testes;
+- 🔭 Atualmente estou trabalhando como Desenvolvedor FullStack;
+- 🌱 Estou estudando mt DDD, TDD e Padrões de Projeto;
 - 👯 Estou procurando colaborar em projetos da comunidade;
 - 🤔 Estou procurando ajuda com README do meu Git 😂;
 - 💬 Pergunte-me sobre Logica de Programação e SQL;
