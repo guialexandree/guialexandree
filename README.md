@@ -14,15 +14,13 @@
 
 29 anos, moro em São Paulo/SP.
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor FullStack;
-- 🌱 Estou estudando mt DDD, TDD e Padrões de Projeto;
-- 👯 Estou procurando colaborar em projetos da comunidade;
-- 🤔 Estou procurando ajuda com README do meu Git 😂;
-- 💬 Pergunte-me sobre Logica de Programação e SQL;
+Tenho experiência de 5 anos na área de tecnologia.<br>
+Atualmente, trabalho com desenvolvimento ReactJs, React Native Angular e NodeJs. <br>
+Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande experiência com POO, linguagem SQL e bancos de dados relacionais.<br>
 
 <br />
 
-### ⚡ Atividades atuais
+### ⚡ Experiencias profissional com tecnologia
 
 - Mineração de dados em bancos de dados de terceiros: SQL Server, MySQL, Firebird, Oracle; 
 - Desenvolvimento com Windows Forms C#, criação de conversores de dados para migrações de sistemas legado para soluções da empresa;
@@ -34,28 +32,6 @@
 - Analise de viabilidade de solicitações de correções e melhorias feitas pelo de Help Desk; 
 
 <br />
-
-### 🖥️ Tecologias e Ferramentas
-
-<section style>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />        
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-</section> 
-        
- <br />
  
 <p align="center">
  <a href="https://github.com/guialexandree">
