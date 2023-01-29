@@ -21,7 +21,7 @@ Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande exper
 
 ### ⚡ 
 
-Atualmente venho me aprofudando no mundo do javascript/typescript tanto backend como frontend(sim ainda tenha essa dúvida 😢KKKK), também tenho estudando sobre padrões e arquiteturas de projetos, e me aventurando um pouco em CI/CD.
+Atualmente venho me aprofudando no mundo do javascript/typescript tanto backend como frontend, também tenho estudando sobre padrões e arquiteturas de projetos, e me aventurando um pouco em CI/CD.
 Estou refatorando projetos antigos utilizando TDD como metodologia de trabalho e Arquitetura Limpa para fazer a distribuição das responsabilidades em camadas.
 
 Ferramentas e tecnologias atuais
