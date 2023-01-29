@@ -19,18 +19,14 @@ Tenho experiência de 5 anos na área de tecnologia.<br>
 Atualmente, trabalho com desenvolvimento ReactJs, React Native Angular e NodeJs. <br>
 Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande experiência com POO, linguagem SQL e bancos de dados relacionais.<br>
 
-<br />
+### ⚡ 
 
-### ⚡ Experiencias profissional com tecnologia
+Atualmente venho me aprofudando no mundo do javascript/typescript tanto backend como frontend(sim ainda tenha essa dúvida 😢KKKK), também tenho estudando sobre padrões e arquiteturas de projetos, e me aventurando um pouco em CI/CD.
+Estou refatorando projetos antigos utilizando TDD como metodologia de trabalho e Arquitetura Limpa para fazer a distribuição das responsabilidades em camadas.
 
-- Mineração de dados em bancos de dados de terceiros: SQL Server, MySQL, Firebird, Oracle; 
-- Desenvolvimento com Windows Forms C#, criação de conversores de dados para migrações de sistemas legado para soluções da empresa;
-- Desenvolvimento e refatoração de sistemas de uso interno da empresa(C#, NET Core, HTML, CSS, JS);
-- Analise de erros reportados pelo Help Desk ocorridos nos sistemas, documentando os erros e direcionando para a correção no setor de desenvolvimento(Gitlab, VBA); 
-- Criação de scripts SQL para intervenção técnica na base de dados dos clientes;
-- Criação de views para geração de relatórios personalizados para as regras de cada cliente;
-- Analise de de erros e melhorias entre comunicações com API de parceiros;
-- Analise de viabilidade de solicitações de correções e melhorias feitas pelo de Help Desk; 
+Ferramentas e tecnologias atuais
+
+Node, Jest, React, Cypress, NestJs, MUI, Express, Fastify, TypeScript, SQL, MongoDB, 
 
 <br />
  
@@ -43,21 +39,3 @@ Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande exper
  ![image](https://raw.githubusercontent.com/GustavoMachado22/GustavoMachado22/output/github-contribution-grid-snake.svg)
  
 </p>
-
-
-
-    
-<!--
-**guialexandree/guialexandree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
