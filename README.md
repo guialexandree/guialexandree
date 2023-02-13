@@ -21,7 +21,7 @@ Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande exper
 
 ### ⚡ 
 
-Estou estudando em 02/2023
+### Estou estudando em 02/2023
 
 - Padrões de Projeto;
 - Pipelines de CI/CD(Github Actions e GitLab);
