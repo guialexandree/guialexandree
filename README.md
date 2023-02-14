@@ -45,4 +45,5 @@ Node, Jest, React, Cypress, NestJs, MUI, Express, Fastify, TypeScript, SQL, Mong
  
  ![image](https://raw.githubusercontent.com/GustavoMachado22/GustavoMachado22/output/github-contribution-grid-snake.svg)
  
+ [![](https://github-readme-activity-graph.cyclic.app/graph?username=guialexandree&theme=react-dark)](https://github.com/guialexandree/github-readme-activity-graph)
 </p>
