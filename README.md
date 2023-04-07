@@ -21,13 +21,11 @@ Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande exper
 
 ### ⚡ 
 
-### Estou estudando em 02/2023
+### Estou estudando em 04/2023
 
 - Padrões de Projeto;
 - Pipelines de CI/CD(Github Actions e GitLab);
-- Docker;
-- Apache Kafka.
-- NestJS;
+- React Native;
 
 Estou refatorando projetos antigos utilizando TDD como metodologia de trabalho e Arquitetura Limpa para fazer a distribuição das responsabilidades em camadas.
 
