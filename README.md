@@ -13,7 +13,7 @@
 
 <br />
 
-29 anos, moro em São Paulo/SP.
+30 anos, moro em São Paulo/SP.
 
 Tenho experiência de 5 anos na área de tecnologia.<br>
 Atualmente, trabalho com desenvolvimento ReactJs, React Native Angular e NodeJs. <br>
@@ -21,11 +21,9 @@ Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande exper
 
 ### ⚡ 
 
-### Estou estudando em 04/2023
+### Estou estudando em 08/2023
 
-- Padrões de Projeto;
-- Pipelines de CI/CD(Github Actions e GitLab);
-- React Native;
+- Nada;
 
 Estou refatorando projetos antigos utilizando TDD como metodologia de trabalho e Arquitetura Limpa para fazer a distribuição das responsabilidades em camadas.
 
