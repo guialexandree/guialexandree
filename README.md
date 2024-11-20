@@ -13,23 +13,19 @@
 
 <br />
 
-30 anos, moro em São Paulo/SP.
+31 anos, moro em São Paulo/SP.
 
-Tenho experiência de 5 anos na área de tecnologia.<br>
-Atualmente, trabalho com desenvolvimento ReactJs, React Native Angular e NodeJs. <br>
+Sempre trabalhei na área de tecnologia.<br>
+Atualmente, trabalho com desenvolvimento React, React Native Angular, .Net Framework e NodeJs. <br>
 Trabalhei anteriormente com C#, e Análise de Sistemas, onde obtive grande experiência com POO, linguagem SQL e bancos de dados relacionais.<br>
 
 ### ⚡ 
-
-### Estou estudando em 08/2023
-
-- Nada;
 
 Estou refatorando projetos antigos utilizando TDD como metodologia de trabalho e Arquitetura Limpa para fazer a distribuição das responsabilidades em camadas.
 
 Ferramentas e tecnologias atuais
 
-Node, Jest, React, Cypress, NestJs, MUI, Express, Fastify, TypeScript, SQL, MongoDB, Docker
+React, ReactNative, Angular, .NET Framework, .Net core, Node,, NestJs, TypeScript, SQL, MongoDB, Docker
 
 <br />
  
